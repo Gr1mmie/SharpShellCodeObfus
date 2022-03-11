@@ -1,6 +1,6 @@
 # SharpShellcodeObfus
 
-Just a simple C# exec to obfusate shellcode using caeser cipher w/ a supplied # of rotations (pass shellcode without quotes)
+Just a simple C# exec to obfuscate shellcode using caeser cipher w/ a supplied # of rotations (pass shellcode without quotes)
 
 ```
 SharpShellcodeObfus -r [rotations] -s [shellcode]
